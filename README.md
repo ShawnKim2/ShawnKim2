@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1> Hi there!! I'm Seonghyeon👋 </h1>
 
-<!--
-**ShawnKim2/ShawnKim2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</a>
 
-Here are some ideas to get you started:
+### About me
+#### 👨‍💻 Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ✏ Study : Sunchon National University, Republic of Korea 🇰🇷
+- Bachelor of Engineering from Department of Artificial Intelligence Engineering. (Mar. 2022 ~ )
+
+</a>
+
+### My tech stack📚
+<div align=left> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
