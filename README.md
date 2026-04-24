@@ -6,7 +6,7 @@
 #### 👨‍💻 Software Engineer
 
 #### ✏ Study : Sunchon National University, Republic of Korea 🇰🇷
-- Bachelor of Engineering from Department of Artificial Intelligence Engineering. (Mar. 2022 ~ )
+- Bachelor of Engineering from Department of Artificial Intelligence Engineering. (Mar. 2022 ~ Feb. 2026)
 
 </a>
 
